@@ -81,7 +81,7 @@ function HomePage() {
             <div className="flex flex-col">
               <h1 className="text-3xl font-bold mt-8 text-center">Sobre mi</h1>
               <img
-                src="src\assets\profile.png"
+                src="src/assets/profile.png"
                 alt="profile image"
                 className="rounded-full scale-75"
               />
