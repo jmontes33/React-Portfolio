@@ -14,7 +14,7 @@ function Skills() {
           <div className="px-6 py-4 text-lg">
             <div className="hidden md:flex space-x-10">
               <div className="flex flex-col space-y-2">
-                <img className="h-20" src="src/assets/html5.png" alt="html" />
+                <img className="h-20" src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/html5.png" alt="html" />
                 <p className="flex justify-center">HTML</p>
               </div>
               <div className="flex flex-col space-y-2">
