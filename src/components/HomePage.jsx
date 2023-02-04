@@ -16,7 +16,7 @@ const projects = [
     description:
       "Un cronómetro en el que podrás configurar el tiempo de trbajo y descanso como tu desees.",
     role: "HTML, CSS, JS",
-    imageUrl: "src/assets/pomodoro-img.png",
+    imageUrl: "https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/pomodoro-img.png?raw=true",
     netlify: "https://timely-otter-1b8a49.netlify.app/",
     github: "https://github.com/jmontes33/Pomodoro-App",
   },
@@ -24,7 +24,7 @@ const projects = [
     name: "Portfolio",
     description: "Mi propio portfolio.",
     role: "React, Tailwind",
-    imageUrl: "src/assets/portfolio.png",
+    imageUrl: "https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/portfolio.png?raw=true",
     netlify: "https://timely-otter-1b8a49.netlify.app/",
     github: "https://github.com/jmontes33/Pomodoro-App",
   },
@@ -33,7 +33,7 @@ const projects = [
     description:
       "Una aplicación que te permite registrarte y acceder a tu cuenta.",
     role: "PHP, CSS",
-    imageUrl: "src/assets/Acceder.png",
+    imageUrl: "https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/Acceder.png?raw=true",
     netlify: "https://github.com/jmontes33/php-login",
     github: "https://github.com/jmontes33/php-login",
   },
@@ -72,7 +72,7 @@ function HomePage() {
               </a>
             </div>
             <img
-              src="src\assets\profile.png"
+              src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/profile.png?raw=true"
               alt="profile image"
               className="rounded-full scale-75 ml-auto"
             />
@@ -143,7 +143,7 @@ function HomePage() {
                           className="relative -mr-px inline-flex w-0 flex-1 items-center justify-center rounded-bl-lg border border-transparent py-4 text-sm font-medium text-gray-700 hover:text-gray-500"
                         >
                           <img
-                            src="src/assets/github-logo.svg"
+                            src="https://raw.githubusercontent.com/jmontes33/React-Portfolio/20d9cedab15245df7dbed1c63ebc814c6d655c57/src/assets/github-logo.svg"
                             alt="github"
                             className="h-5 w-5 text-gray-400"
                             aria-hidden="true"

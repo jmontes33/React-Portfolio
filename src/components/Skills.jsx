@@ -14,17 +14,17 @@ function Skills() {
           <div className="px-6 py-4 text-lg">
             <div className="hidden md:flex space-x-10">
               <div className="flex flex-col space-y-2">
-                <img className="h-20" src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/html5.png" alt="html" />
+                <img className="h-20" src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/html5.png?raw=true" alt="html" />
                 <p className="flex justify-center">HTML</p>
               </div>
               <div className="flex flex-col space-y-2">
-                <img className="h-20" src="src/assets/css3.png" alt="css" />
+                <img className="h-20" src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/css3.png?raw=true" alt="css" />
                 <p className="flex justify-center">CSS</p>
               </div>
               <div className="flex flex-col space-y-2">
                 <img
                   className="h-20 rounded-2xl"
-                  src="src/assets/javascript.png"
+                  src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/javascript.png?raw=true"
                   alt="javascript"
                 />
                 <p className="flex justify-center">JavaScript</p>
@@ -32,7 +32,7 @@ function Skills() {
               <div className="flex flex-col space-y-2">
                 <img
                   className="h-20 rounded-2xl"
-                  src="src/assets/react.png"
+                  src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/react.png?raw=true"
                   alt="react"
                 />
                 <p className="flex justify-center">React</p>
@@ -40,7 +40,7 @@ function Skills() {
               <div className="flex flex-col space-y-2">
                 <img
                   className="h-20"
-                  src="src/assets/tailwind.png"
+                  src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/tailwind.png?raw=true"
                   alt="Tailwind"
                 />
                 <p className="flex justify-center">Tailwind</p>
@@ -48,17 +48,17 @@ function Skills() {
             </div>
             <div className="grid grid-cols-2 md:hidden">
               <div className="flex flex-col space-y-2">
-                <img src="src/assets/html5.png" alt="html" />
+                <img src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/html5.png?raw=true" alt="html" />
                 <p className="flex justify-center">HTML</p>
               </div>
               <div className="flex flex-col space-y-2">
-                <img src="src/assets/css3.png" alt="css" />
+                <img src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/css3.png?raw=true" alt="css" />
                 <p className="flex justify-center">CSS</p>
               </div>
               <div className="flex flex-col space-y-2">
                 <img
                   className=" rounded-2xl"
-                  src="src/assets/javascript.png"
+                  src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/javascript.png?raw=true"
                   alt="javascript"
                 />
                 <p className="flex justify-center">JavaScript</p>
@@ -66,13 +66,13 @@ function Skills() {
               <div className="flex flex-col space-y-2">
                 <img
                   className=" rounded-2xl"
-                  src="src/assets/react.png"
+                  src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/react.png?raw=true"
                   alt="react"
                 />
                 <p className="flex justify-center">React</p>
               </div>
               <div className="flex flex-col space-y-2">
-                <img src="src/assets/tailwind.png" alt="Tailwind" />
+                <img src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/tailwind.png?raw=true" alt="Tailwind" />
                 <p className=" flex justify-center">Tailwind</p>
               </div>
             </div>
@@ -89,23 +89,23 @@ function Skills() {
               <div className="flex flex-col space-y-2">
                 <img
                   className="h-20"
-                  src="src/assets/postgresql.png"
+                  src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/postgresql.png?raw=true"
                   alt="postgresql"
                 />
                 <p className="flex justify-center">PostgreSql</p>
               </div>
               <div className="flex flex-col space-y-2">
-                <img className="h-20" src="src/assets/nodejs.png" alt="node" />
+                <img className="h-20" src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/nodejs.png?raw=true" alt="node" />
                 <p className="flex justify-center">Node.Js</p>
               </div>
             </div>
             <div className="grid grid-cols-2 md:hidden">
               <div className="flex flex-col space-y-2">
-                <img src="src/assets/postgresql.png" alt="postgresql" />
+                <img src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/postgresql.png?raw=true" alt="postgresql" />
                 <p className="flex justify-center">PostgreSql</p>
               </div>
               <div className="flex flex-col space-y-2">
-                <img src="src/assets/nodejs.png" alt="node" />
+                <img src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/nodejs.png?raw=true" alt="node" />
                 <p className="flex justify-center">Node.Js</p>
               </div>
             </div>
@@ -120,25 +120,25 @@ function Skills() {
           <div className="px-6 py-4 text-lg">
             <div className="hidden md:flex space-x-10">
               <div className="flex flex-col space-y-2">
-                <img className="h-20" src="src/assets/git.png" alt="git" />
+                <img className="h-20" src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/git.png?raw=true" alt="git" />
                 <p className="flex justify-center">Git</p>
               </div>
               <div className="flex flex-col space-y-2">
                 <img
                   className="h-20"
-                  src="src/assets/github.png"
+                  src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/github.png?raw=true"
                   alt="github"
                 />
                 <p className="flex justify-center">GitHub</p>
               </div>
               <div className="flex flex-col space-y-2">
-                <img className="h-20" src="src/assets/npm.png" alt="npm" />
+                <img className="h-20" src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/npm.png?raw=true" alt="npm" />
                 <p className="flex justify-center">Npm</p>
               </div>
               <div className="flex flex-col space-y-2">
                 <img
                   className="h-20"
-                  src="src/assets/netlify.png"
+                  src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/netlify.png?raw=true"
                   alt="netlify"
                 />
                 <p className="flex justify-center">Netlify</p>
@@ -146,19 +146,19 @@ function Skills() {
             </div>
             <div className="grid grid-cols-2 md:hidden">
               <div className="flex flex-col space-y-2">
-                <img src="src/assets/git.png" alt="git" />
+                <img src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/git.png?raw=true" alt="git" />
                 <p className="flex justify-center">Git</p>
               </div>
               <div className="flex flex-col space-y-2">
-                <img src="src/assets/github.png" alt="github" />
+                <img src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/github.png?raw=true" alt="github" />
                 <p className="flex justify-center">GitHub</p>
               </div>
               <div className="flex flex-col space-y-2">
-                <img src="src/assets/npm.png" alt="npm" />
+                <img src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/npm.png?raw=true" alt="npm" />
                 <p className="flex justify-center">Npm</p>
               </div>
               <div className="flex flex-col space-y-2">
-                <img src="src/assets/netlify.png" alt="netlify" />
+                <img src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/netlify.png?raw=true" alt="netlify" />
                 <p className="flex justify-center">Netlify</p>
               </div>
             </div>

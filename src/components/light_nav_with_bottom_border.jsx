@@ -37,14 +37,14 @@ export default function NavBar() {
                       <a href="https://github.com/jmontes33" target="_blank">
                         <img
                           className="block h-8 w-auto lg:hidden"
-                          src="src/assets/github-logo.svg"
+                          src="https://raw.githubusercontent.com/jmontes33/React-Portfolio/20d9cedab15245df7dbed1c63ebc814c6d655c57/src/assets/github-logo.svg"
                           alt="logo"
                         />
                       </a>
                       <a href="https://github.com/jmontes33" target="_blank">
                         <img
                           className="hidden h-8 w-auto lg:block"
-                          src="src/assets/github-logo.svg"
+                          src="https://raw.githubusercontent.com/jmontes33/React-Portfolio/20d9cedab15245df7dbed1c63ebc814c6d655c57/src/assets/github-logo.svg"
                           alt="logo"
                         />
                       </a>
