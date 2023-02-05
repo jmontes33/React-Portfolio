@@ -23,7 +23,7 @@ export function Erdd() {
             intentando sacar alguna sonrisa de vez en cuando ✌🏻😁.
           </p>
           <p className="mb-5 text-lg w-9/12">
-            Pensando en el <strong>futuro de El Rincón Del Dev</strong>, me
+            Pensando en el <strong>futuro de "El Rincón Del Dev"</strong>, me
             gustaría crear un contenido más divulgativo, ayudar a la gente que
             está empezando, y también motivar a quienes aún no se atreven a dar
             el paso para entrar en este mundo.
@@ -86,7 +86,7 @@ export function Erdd() {
             intentando sacar alguna sonrisa de vez en cuando ✌🏻😁.
           </p>
           <p className="flex items-center p-2 text-lg">
-            Pensando en el futuro de El Rincón Del Dev, me
+            Pensando en el futuro de "El Rincón Del Dev", me
             gustaría crear un contenido más divulgativo, ayudar a la gente que
             está empezando, y también motivar a quienes aún no se atreven a dar
             el paso para entrar en este mundo.

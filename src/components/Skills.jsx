@@ -46,7 +46,7 @@ function Skills() {
                 <p className="flex justify-center">Tailwind</p>
               </div>
             </div>
-            <div className="grid grid-cols-2 md:hidden">
+            <div className="grid grid-cols-2 md:hidden p-6 gap-12">
               <div className="flex flex-col space-y-2">
                 <img src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/html5.png?raw=true" alt="html" />
                 <p className="flex justify-center">HTML</p>
@@ -99,7 +99,7 @@ function Skills() {
                 <p className="flex justify-center">Node.Js</p>
               </div>
             </div>
-            <div className="grid grid-cols-2 md:hidden">
+            <div className="grid grid-cols-2 md:hidden p-6 gap-12">
               <div className="flex flex-col space-y-2">
                 <img src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/postgresql.png?raw=true" alt="postgresql" />
                 <p className="flex justify-center">PostgreSql</p>
@@ -144,7 +144,7 @@ function Skills() {
                 <p className="flex justify-center">Netlify</p>
               </div>
             </div>
-            <div className="grid grid-cols-2 md:hidden">
+            <div className="grid grid-cols-2 md:hidden p-6 gap-12">
               <div className="flex flex-col space-y-2">
                 <img src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/git.png?raw=true" alt="git" />
                 <p className="flex justify-center">Git</p>

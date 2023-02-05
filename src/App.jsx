@@ -6,6 +6,7 @@ import Erdd from "./components/Erdd";
 import NotFoundPage from "./components/NotFoundPage";
 import Skills from "./components/Skills";
 import FooterBar from "./components/FooterBar";
+import Resume from "./components/Resume";
 
 export function App() {
   return (
@@ -15,6 +16,7 @@ export function App() {
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/erdd" element={<Erdd />} />
+        <Route path="/resume" element={<Resume />} />
         <Route path="/skills" element={<Skills />} />
         <Route path="*" element={<NotFoundPage />} />
       </Routes>

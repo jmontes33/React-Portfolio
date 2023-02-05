@@ -1,5 +1,6 @@
 import React from "react";
 import { EnvelopeIcon, ComputerDesktopIcon } from "@heroicons/react/20/solid";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 const projects = [
   {
@@ -16,7 +17,8 @@ const projects = [
     description:
       "Un cronómetro en el que podrás configurar el tiempo de trbajo y descanso como tu desees.",
     role: "HTML, CSS, JS",
-    imageUrl: "https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/pomodoro-img.png?raw=true",
+    imageUrl:
+      "https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/pomodoro-img.png?raw=true",
     netlify: "https://timely-otter-1b8a49.netlify.app/",
     github: "https://github.com/jmontes33/Pomodoro-App",
   },
@@ -24,7 +26,8 @@ const projects = [
     name: "Portfolio",
     description: "Mi propio portfolio.",
     role: "React, Tailwind",
-    imageUrl: "https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/portfolio.png?raw=true",
+    imageUrl:
+      "https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/portfolio.png?raw=true",
     netlify: "https://react-portfolio-reohy1dc4-jmontes33.vercel.app/",
     github: "https://github.com/jmontes33/React-Portfolio",
   },
@@ -33,7 +36,8 @@ const projects = [
     description:
       "Una aplicación que te permite registrarte y acceder a tu cuenta.",
     role: "PHP, CSS",
-    imageUrl: "https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/Acceder.png?raw=true",
+    imageUrl:
+      "https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/Acceder.png?raw=true",
     netlify: "https://github.com/jmontes33/php-login",
     github: "https://github.com/jmontes33/php-login",
   },
@@ -54,13 +58,18 @@ function HomePage() {
           <h1 className="hidden md:flex text-3xl font-bold mt-8">Sobre mi</h1>
           <div className="hidden md:flex items-center">
             <div className="flex-col">
-              <p className="text-lg  w-9/12 mb-10">
-                Me considero una persona proactiva que disfruta afrontando
-                nuevos retos. Siento una gran pasión por el mundo tecnológico,
-                me encantaría formarme todo lo posible, no dejar de hacerlo
-                nunca, y compartir todos los conocimientos que vaya adquiriendo
-                con la comunidad, para motivar y ayudar a los que están
-                empezando.
+              <p className="text-lg  w-9/12 mb-5">
+                Como persona proactiva, disfruto de la emoción de asumir y
+                superar nuevos retos.
+                <br />
+                Mi pasión por la tecnología, espcialmente por el desarrollo web,
+                me ha impulsado a profundizar mis conocimientos y compartirlos
+                con otros a través de <a href="/erdd">
+                  "El Rincón Del Dev"
+                </a>. <br />
+                Mi objetivo es seguir creciendo y aprendiendo para llegar a ser
+                una fuente de información valiosa para aquellas personas que
+                estén empezando o quieran empezar en este mundo.
               </p>
               <a
                 href="https://www.linkedin.com/in/jose-ram%C3%B3n-montes-hermida-a8a635193/"
@@ -74,7 +83,7 @@ function HomePage() {
             <img
               src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/profile.png?raw=true"
               alt="profile image"
-              className="rounded-full scale-75"
+              className="rounded-full"
             />
           </div>
           <div className="flex md:hidden items-center p-8">
@@ -86,12 +95,13 @@ function HomePage() {
                 className="rounded-full scale-75"
               />
               <p className="flex items-center pt-6 pb-4 text-lg">
-                Me considero una persona proactiva que disfruta afrontando
-                nuevos retos. Siento una gran pasión por el mundo tecnológico,
-                me encantaría formarme todo lo posible, no dejar de hacerlo
-                nunca, y compartir todos los conocimientos que vaya adquiriendo
-                con la comunidad, para motivar y ayudar a los que están
-                empezando.
+                Como persona proactiva, disfruto de la emoción de asumir y
+                superar nuevos retos. Mi pasión por la tecnología, espcialmente
+                por el desarrollo web, me ha impulsado a profundizar mis
+                conocimientos y compartirlos con otros a través de "El Rincón
+                Del Dev". Mi objetivo es seguir creciendo y aprendiendo para
+                llegar a ser una fuente de información valiosa para aquellas
+                personas que estén empezando o quieran empezar en este mundo.
               </p>
               <a
                 href="https://www.linkedin.com/in/jose-ram%C3%B3n-montes-hermida-a8a635193/"

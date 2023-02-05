@@ -8,6 +8,7 @@ import "./noActive.css";
 const navigation = [
   { name: "Inicio", href: "/", current: true },
   { name: "El Rincón Del Dev", href: "/erdd", current: false },
+  { name: "Todo Empezó...", href: "/resume", current: false },
   { name: "Habilidades", href: "/skills", current: false },
 ];
 
