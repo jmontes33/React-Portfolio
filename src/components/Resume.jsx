@@ -41,7 +41,7 @@ function Resume() {
           </p>
         </div>
         <img
-          src="./src/assets/flecha-1.png"
+          src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/flecha-1.png?raw=true"
           alt="flecha"
           className="h-40 mr-20"
         />
@@ -87,7 +87,7 @@ function Resume() {
           </p>
         </div>
         <img
-          src="./src/assets/flecha-1.png"
+          src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/flecha-1.png?raw=true"
           alt="flecha"
           className="h-40 mr-20"
         />
