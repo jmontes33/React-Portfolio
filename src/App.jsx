@@ -2,7 +2,6 @@ import React from "react";
 import NavBar from "./components/light_nav_with_bottom_border";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import HomePage from "./components/HomePage";
-import Contact from "./components/Contact";
 import Erdd from "./components/Erdd";
 import NotFoundPage from "./components/NotFoundPage";
 import Skills from "./components/Skills";

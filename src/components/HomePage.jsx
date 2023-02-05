@@ -8,7 +8,7 @@ const projects = [
       "Una aplicación To-Do con D&D, en ella puedes crear tareas, marcarlas, moverlas a diferentes estados e incluso eliminarlas.",
     role: "HTML, CSS, JS",
     imageUrl: "https://github.com/jmontes33/To-Do-D-D/raw/main/to-do.png",
-    netlify: "https://github.com/jmontes33/To-Do-D-D/raw/main/to-do.png",
+    netlify: "https://wonderful-babka-974508.netlify.app/",
     github: "https://github.com/jmontes33/To-Do-D-D",
   },
   {
@@ -25,8 +25,8 @@ const projects = [
     description: "Mi propio portfolio.",
     role: "React, Tailwind",
     imageUrl: "https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/portfolio.png?raw=true",
-    netlify: "https://timely-otter-1b8a49.netlify.app/",
-    github: "https://github.com/jmontes33/Pomodoro-App",
+    netlify: "https://react-portfolio-reohy1dc4-jmontes33.vercel.app/",
+    github: "https://github.com/jmontes33/React-Portfolio",
   },
   {
     name: "Login/Register",
@@ -51,7 +51,7 @@ function HomePage() {
       </header>
       <main>
         <div className="mx-auto max-w-6xl sm:px-6 lg:px-8">
-          <h1 className="text-3xl font-bold mt-8">Sobre mi</h1>
+          <h1 className="hidden md:flex text-3xl font-bold mt-8">Sobre mi</h1>
           <div className="hidden md:flex items-center">
             <div className="flex-col">
               <p className="text-lg  w-9/12 mb-10">
@@ -74,14 +74,14 @@ function HomePage() {
             <img
               src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/profile.png?raw=true"
               alt="profile image"
-              className="rounded-full scale-75 ml-auto"
+              className="rounded-full scale-75"
             />
           </div>
           <div className="flex md:hidden items-center p-8">
             <div className="flex flex-col">
               <h1 className="text-3xl font-bold mt-8 text-center">Sobre mi</h1>
               <img
-                src="src/assets/profile.png"
+                src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/profile.png?raw=true"
                 alt="profile image"
                 className="rounded-full scale-75"
               />

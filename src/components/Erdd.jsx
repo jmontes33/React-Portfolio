@@ -73,7 +73,7 @@ export function Erdd() {
         <div className="flex flex-col gap-2 content-center">
           <h1 className="text-3xl font-bold mb-5 text-center">¿Qué es esto?</h1>
           <img
-          src="src\assets\instagram-phone2.png"
+          src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/Instagram-phone2.png?raw=true"
           alt="profile image"
           className="ml-auto"
         />

@@ -18,14 +18,6 @@ function classNames(...classes) {
 export default function NavBar() {
   return (
     <>
-      {/*
-        This example requires updating your template:
-
-        ```
-        <html class="h-full">
-        <body class="h-full">
-        ```
-      */}
       <div className="min-h-full">
         <Disclosure as="nav" className="border-b border-gray-200 bg-white">
           {({ open }) => (
@@ -70,7 +62,7 @@ export default function NavBar() {
                   <div className="-mr-2 flex items-center sm:hidden">
                     {/* Mobile menu button */}
                     <Disclosure.Button className="inline-flex items-center justify-center rounded-md bg-white p-2 text-gray-400 hover:bg-gray-100 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2">
-                      <span className="sr-only">Open main menu</span>
+                      <span className="sr-only">Abrir menu</span>
                       {open ? (
                         <XMarkIcon
                           className="block h-6 w-6"
