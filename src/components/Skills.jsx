@@ -95,8 +95,8 @@ function Skills() {
                 <p className="flex justify-center">PostgreSql</p>
               </div>
               <div className="flex flex-col space-y-2">
-                <img className="h-20" src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/nodejs.png?raw=true" alt="node" />
-                <p className="flex justify-center">Node.Js</p>
+                <img className="h-20" src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/php.png?raw=true" alt="php" />
+                <p className="flex justify-center">PHP</p>
               </div>
             </div>
             <div className="grid grid-cols-2 md:hidden p-6 gap-12">
@@ -105,8 +105,8 @@ function Skills() {
                 <p className="flex justify-center">PostgreSql</p>
               </div>
               <div className="flex flex-col space-y-2">
-                <img src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/nodejs.png?raw=true" alt="node" />
-                <p className="flex justify-center">Node.Js</p>
+                <img src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/php.png?raw=true" alt="php" />
+                <p className="flex justify-center">PHP</p>
               </div>
             </div>
           </div>
