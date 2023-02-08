@@ -19,7 +19,7 @@ const projects = [
       "Un cronómetro en el que podrás configurar el tiempo de trbajo y descanso como tu desees.",
     role: "HTML, CSS, JS",
     imageUrl:
-      "https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/pomodoro.png?raw=true",
+      "https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/pomodoro-def.png?raw=true",
     netlify: "https://timely-otter-1b8a49.netlify.app/",
     github: "https://github.com/jmontes33/Pomodoro-App",
   },
@@ -29,7 +29,7 @@ const projects = [
     role: "React, Tailwind",
     imageUrl:
       "https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/portfolio.png?raw=true",
-    netlify: "https://react-portfolio-reohy1dc4-jmontes33.vercel.app/",
+    netlify: "https://www.elrincondeldev.com",
     github: "https://github.com/jmontes33/React-Portfolio",
   },
   {
