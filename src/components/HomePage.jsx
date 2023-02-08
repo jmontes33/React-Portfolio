@@ -1,6 +1,7 @@
 import React from "react";
 import { EnvelopeIcon, ComputerDesktopIcon } from "@heroicons/react/20/solid";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 const projects = [
   {
@@ -71,14 +72,13 @@ function HomePage() {
                 una fuente de información valiosa para aquellas personas que
                 estén empezando o quieran empezar en este mundo.
               </p>
-              <a
-                href="https://www.linkedin.com/in/jose-ram%C3%B3n-montes-hermida-a8a635193/"
-                target={"_blank"}
+              <NavLink
+                to="./repartidor"
                 type="button"
                 className="inline-flex items-center rounded-md border border-gray-300 bg-white px-6 py-3 text-base font-medium text-gray-700 shadow-sm hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
               >
                 Linkedin
-              </a>
+              </NavLink>
             </div>
             <img
               src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/profile.png?raw=true"

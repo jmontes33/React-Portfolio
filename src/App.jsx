@@ -7,6 +7,7 @@ import NotFoundPage from "./components/NotFoundPage";
 import Skills from "./components/Skills";
 import FooterBar from "./components/FooterBar";
 import Resume from "./components/Resume";
+import Repartidor from "./components/Repartidor";
 
 export function App() {
   return (
@@ -19,6 +20,7 @@ export function App() {
         <Route path="/resume" element={<Resume />} />
         <Route path="/skills" element={<Skills />} />
         <Route path="*" element={<NotFoundPage />} />
+        <Route path="/repartidor" element={<Repartidor />} />
       </Routes>
       <FooterBar />
     </BrowserRouter>
