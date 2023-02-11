@@ -31,13 +31,13 @@ export function Erdd() {
           <div className="flex items-center w-full mt-14 mb-24">
             <div className="flex flex-1 ml-14">
               <a
-                href="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/iphone13-insta.png?raw=true"
+                href="https://www.instagram.com/elrincondeldev/"
                 target={"_blank"}
                 type="button"
                 className="inline-flex items-center rounded-md border border-gray-300 bg-white px-6 py-3 text-base font-medium text-gray-700 shadow-sm hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
               >
                 <img
-                  src="https://raw.githubusercontent.com/jmontes33/React-Portfolio/20d9cedab15245df7dbed1c63ebc814c6d655c57/src/assets/instagram-logo.svg"
+                  src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/iphone13-insta.png?raw=true"
                   alt="instagram logo"
                   className="h-5 w-5"
                   aria-hidden="true"
