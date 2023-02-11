@@ -37,7 +37,7 @@ export function Erdd() {
                 className="inline-flex items-center rounded-md border border-gray-300 bg-white px-6 py-3 text-base font-medium text-gray-700 shadow-sm hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
               >
                 <img
-                  src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/iphone13-insta.png?raw=true"
+                  src="https://raw.githubusercontent.com/jmontes33/React-Portfolio/20d9cedab15245df7dbed1c63ebc814c6d655c57/src/assets/instagram-logo.svg"
                   alt="instagram logo"
                   className="h-5 w-5"
                   aria-hidden="true"
@@ -64,7 +64,7 @@ export function Erdd() {
           </div>
         </div>
         <img
-          src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/Instagram-phone2.png?raw=true"
+          src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/iphone13-insta.png?raw=true"
           alt="profile image"
           className="max-w-xs ml-auto"
         />
@@ -73,7 +73,7 @@ export function Erdd() {
         <div className="flex flex-col gap-2 content-center">
           <h1 className="text-3xl font-bold mb-5 text-center">¿Qué es esto?</h1>
           <img
-          src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/Instagram-phone2.png?raw=true"
+          src="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/iphone13-insta.png?raw=true"
           alt="profile image"
           className="ml-auto"
         />
