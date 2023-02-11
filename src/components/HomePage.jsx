@@ -25,12 +25,12 @@ const projects = [
   },
   {
     name: "Apuntes React",
-    description: "Mi propio portfolio.",
+    description: "Mis apuntes de React donde puedes buscar algo si tienes algunda duda (en progreso)",
     role: "React, Tailwind",
     imageUrl:
-      "https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/portfolio.png?raw=true",
-    netlify: "https://www.elrincondeldev.com",
-    github: "https://github.com/jmontes33/React-Portfolio",
+      "https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/Apuntes%20react.png?raw=true",
+    netlify: "https://apuntes-react-jen60xhf5-jmontes33.vercel.app/",
+    github: "https://github.com/jmontes33/apuntes-react",
   },
   {
     name: "Login/Register",
