@@ -31,7 +31,7 @@ export function Erdd() {
           <div className="flex items-center w-full mt-14 mb-24">
             <div className="flex flex-1 ml-14">
               <a
-                href="https://www.instagram.com/elrincondeldev/"
+                href="https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/iphone13-insta.png?raw=true"
                 target={"_blank"}
                 type="button"
                 className="inline-flex items-center rounded-md border border-gray-300 bg-white px-6 py-3 text-base font-medium text-gray-700 shadow-sm hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
