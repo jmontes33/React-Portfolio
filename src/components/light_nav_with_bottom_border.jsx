@@ -10,6 +10,7 @@ const navigation = [
   { name: "El Rincón Del Dev", href: "/erdd", current: false },
   { name: "Todo Empezó...", href: "/resume", current: false },
   { name: "Habilidades", href: "/skills", current: false },
+  { name: "Experiencia", href: "/repartidor", current: false },
 ];
 
 function classNames(...classes) {
