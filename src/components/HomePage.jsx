@@ -28,9 +28,9 @@ const projects = [
     description: "Mis apuntes de React donde puedes buscar algo si tienes algunda duda (en progreso)",
     role: "React, Tailwind",
     imageUrl:
-      "https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/Apuntes%20react.png?raw=true",
-    netlify: "https://apuntes-react-50ibhutgq-jmontes33.vercel.app/",
-    github: "https://github.com/jmontes33/apuntes-react",
+      "https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/f1.png?raw=true",
+    netlify: "https://f1-app-five.vercel.app/",
+    github: "https://github.com/jmontes33/F1-App",
   },
   {
     name: "Login/Register",
