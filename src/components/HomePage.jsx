@@ -29,7 +29,7 @@ const projects = [
     role: "React, Tailwind",
     imageUrl:
       "https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/Apuntes%20react.png?raw=true",
-    netlify: "https://apuntes-react-jen60xhf5-jmontes33.vercel.app/",
+    netlify: "https://apuntes-react-50ibhutgq-jmontes33.vercel.app/",
     github: "https://github.com/jmontes33/apuntes-react",
   },
   {
@@ -73,7 +73,8 @@ function HomePage() {
                 estén empezando o quieran empezar en este mundo.
               </p>
               <NavLink
-                to="https://www.linkedin.com/in/jose-ram%C3%B3n-montes-hermida-a8a635193/"
+                to="https://www.linkedin.com/in/joseramonmontes/"
+                target="_blank"
                 type="button"
                 className="inline-flex items-center rounded-md border border-gray-300 bg-white px-6 py-3 text-base font-medium text-gray-700 shadow-sm hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
               >

@@ -57,7 +57,7 @@ function FooterBar() {
             ))}
           </div>
           <p className="mt-8 text-base text-gray-400 md:order-1 md:mt-0">
-            &copy; 2023 Jose Ramon Montes.
+            Desarrollado con ❤️ por Jose Ramón Montes
           </p>
         </div>
       </div>

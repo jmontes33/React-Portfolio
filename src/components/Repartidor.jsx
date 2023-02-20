@@ -23,8 +23,7 @@ function Repartidor() {
                 <br />
                 <p>
                   Definitivamente mi proyección es óptima y tengo un amplio
-                  rango de mejora, con una streamer que no me mate aun cuando no
-                  me muevo podría volverme una auténtica leyenda de Kukoro.
+                  rango de mejora, solo necesito encontrar una streamer que no me mate cuando estoy quieto, de ser así podría volverme una auténtica leyenda de Kukoro.
                 </p>
               </div>
             </div>
