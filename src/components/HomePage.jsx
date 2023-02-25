@@ -24,9 +24,9 @@ const projects = [
     github: "https://github.com/jmontes33/Pomodoro-App",
   },
   {
-    name: "Apuntes React",
-    description: "Mis apuntes de React donde puedes buscar algo si tienes algunda duda (en progreso)",
-    role: "React, Tailwind",
+    name: "Fórmula 1",
+    description: "Una aplicación que te permite ver los pilotos actuales de la F1, algnas de sus estadísticas y el ranking de pilotos. (en progreso)",
+    role: "React, Tailwind, Supabase",
     imageUrl:
       "https://github.com/jmontes33/React-Portfolio/blob/main/src/assets/f1.png?raw=true",
     netlify: "https://f1-app-five.vercel.app/",
